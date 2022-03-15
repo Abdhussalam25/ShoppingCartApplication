@@ -1,1 +1,3 @@
 # ShoppingCartApplication
+
+first commit
